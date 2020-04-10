@@ -1,0 +1,51 @@
+Alaska,AK,10
+Alabama,AL,4
+Arkansas,AR,6
+Arizona,AZ,9
+California,CA,9
+Colorado,CO,8
+Connecticut,CT,1
+District of Columbia,DC,3
+Delaware,DE,3
+Florida,FL,4
+Georgia,GA,4
+Hawaii,HI,9
+Iowa,IA,7
+Idaho,ID,10
+Illinois,IL,5
+Indiana,IN,5
+Kansas,KS,7
+Kentucky,KY,4
+Louisiana,LA,6
+Massachusetts,MA,1
+Maryland,MD,3
+Maine,ME,1
+Michigan,MI,5
+Minnesota,MN,5
+Missouri,MO,7
+Mississippi,MS,4
+Montana,MT,8
+North Carolina,NC,4
+North Dakota,ND,8
+Nebraska,NE,7
+New Hampshire,NH,1
+New Jersey,NJ,2
+New Mexico,NM,6
+Nevada,NV,9
+New York,NY,2
+Ohio,OH,5
+Oklahoma,OK,6
+Oregon,OR,10
+Pennsylvania,PA,3
+Rhode Island,RI,1
+South Carolina,SC,4
+South Dakota,SD,8
+Tennessee,TN,4
+Texas,TX,6
+Utah,UT,8
+Virginia,VA,3
+Vermont,VT,1
+Washington,WA,10
+Wisconsin,WI,5
+West Virginia,WV,3
+Wyoming,WY,8
